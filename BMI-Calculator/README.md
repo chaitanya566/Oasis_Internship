@@ -8,9 +8,10 @@ BMI TrackPro is a comprehensive health companion application designed to help us
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/BMI-Calculator/Qss/icons/Images/about.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
+
 ## Features
 
 - **Sign Up and Log In**: Users can create accounts securely and log in to access their BMI data.
@@ -24,10 +25,11 @@ BMI TrackPro is a comprehensive health companion application designed to help us
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/Mysql.png" alt="Login In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/BMI-Calculator/Qss/icons/Images/SignUp.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/BMI-Calculator/Qss/icons/Images/Login.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
+
 - **BMI Tracking**: Users can input their BMI values, which are stored in a MySQL database along with timestamps for tracking purposes.
    <table>
    <tr>
@@ -36,9 +38,10 @@ BMI TrackPro is a comprehensive health companion application designed to help us
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/BMI-Calculator/Qss/icons/Images/Calculate.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
+
 - **Analysis Page**: The analysis page displays a bar graph of the user's BMI values over time, providing insights into their health journey.
 - **Health Assessments**: Users can receive health assessments based on their BMI values.
    <table>
@@ -48,18 +51,7 @@ BMI TrackPro is a comprehensive health companion application designed to help us
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
-    </tr>
-</table>
-</table>
-   <table>
-   <tr>
-      <td>
-         Database Storage
-      </td>
-   </tr>
-    <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/BMI-Calculator/Qss/icons/Images/Analysis.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
 
