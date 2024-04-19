@@ -10,21 +10,7 @@ BMI Tracker is a comprehensive health companion application that allows users to
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
-    </tr>
-    </table>
-
-### PasswordGenPro
-
-PasswordGenPro is an advanced password generator and manager application that enables users to generate passwords of varying strengths (strong, weak, very strong, and medium) with customizable options such as length and special characters. Additionally, users can check their password strength against various criteria, store passwords securely, and enjoy an attractive GUI.
-   <table>
-   <tr>
-      <td>
-         Example Pages
-      </td>
-   </tr>
-    <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/BMI-Calculator/Qss/icons/Images/SignUp.png" alt="Sign In" width="500" ></td>
     </tr>
     </table>
 
@@ -38,9 +24,24 @@ WeatherWise is a weather forecasting application designed to effortlessly check 
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Weather-App/Qss/icons/Images/SignUp.png" alt="Sign In" width="500" ></td>
     </tr>
     </table>
+
+### PasswordGenPro
+
+PasswordGenPro is an advanced password generator and manager application that enables users to generate passwords of varying strengths (strong, weak, very strong, and medium) with customizable options such as length and special characters. Additionally, users can check their password strength against various criteria, store passwords securely, and enjoy an attractive GUI.
+   <table>
+   <tr>
+      <td>
+         Example Pages
+      </td>
+   </tr>
+    <tr>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Random-Password-Generator/Qss/icons/Images/signUp.png" alt="Sign In" width="500" ></td>
+    </tr>
+    </table>
+
 
 ## License
 
