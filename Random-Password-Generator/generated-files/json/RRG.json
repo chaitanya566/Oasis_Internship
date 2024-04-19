@@ -1,0 +1,134 @@
+{
+  "QLabel": [
+    {
+      "name": "App_icon",
+      "pixmap": "Qss/icons/Icons/feather/unlock.png"
+    },
+    {
+      "name": "icon_Github",
+      "pixmap": "Qss/icons/Images/github-mark-white.png"
+    },
+    {
+      "name": "Name_Github",
+      "pixmap": "Qss/icons/Images/GitHub_Logo_White.png"
+    },
+    {
+      "name": "icon_Linkedin",
+      "pixmap": "Qss/icons/Images/LinkedIn_2021.svg"
+    },
+    {
+      "name": "label_5",
+      "pixmap": "Qss/icons/Icons/feather/user-plus.png"
+    },
+    {
+      "name": "label_8",
+      "pixmap": "Qss/icons/fd5028/feather/user.png"
+    },
+    {
+      "name": "label_7",
+      "pixmap": "Qss/icons/Icons/feather/key.png"
+    },
+    {
+      "name": "label_14",
+      "pixmap": "Qss/icons/Icons/feather/info.png"
+    },
+    {
+      "name": "label_16",
+      "pixmap": "Qss/icons/Icons/feather/hard-drive.png"
+    },
+    {
+      "name": "label_6",
+      "pixmap": "Qss/icons/Icons/feather/check-square.png"
+    },
+    {
+      "name": "length_check",
+      "pixmap": "Qss/icons/Icons/feather/x-circle.png"
+    },
+    {
+      "name": "complexity_check",
+      "pixmap": "Qss/icons/Icons/feather/x-circle.png"
+    },
+    {
+      "name": "Comman_p_check",
+      "pixmap": "Qss/icons/Icons/feather/x-circle.png"
+    },
+    {
+      "name": "Dict_check",
+      "pixmap": "Qss/icons/Icons/feather/x-circle.png"
+    },
+    {
+      "name": "SCC_check",
+      "pixmap": "Qss/icons/Icons/feather/x-circle.png"
+    }
+  ],
+  "QPushButton": [
+    {
+      "name": "Sign_Up_btn",
+      "icon": "Qss/icons/Icons/feather/user-plus.png"
+    },
+    {
+      "name": "Login_In_btn",
+      "icon": "Qss/icons/Icons/feather/user.png"
+    },
+    {
+      "name": "Create_pass_btn",
+      "icon": "Qss/icons/Icons/feather/key.png"
+    },
+    {
+      "name": "Check_pass_btn",
+      "icon": "Qss/icons/Icons/feather/check-square.png"
+    },
+    {
+      "name": "History_btn",
+      "icon": "Qss/icons/Icons/feather/hard-drive.png"
+    },
+    {
+      "name": "About_btn",
+      "icon": "Qss/icons/Icons/feather/info.png"
+    },
+    {
+      "name": "GitHub_link",
+      "icon": "Qss/icons/Icons/feather/clipboard.png"
+    },
+    {
+      "name": "LinkedIn_Link",
+      "icon": "Qss/icons/Icons/feather/clipboard.png"
+    },
+    {
+      "name": "Menu_Close_btn",
+      "icon": "Qss/icons/Icons/feather/chevrons-left.png"
+    },
+    {
+      "name": "Minimize_button",
+      "icon": "Qss/icons/Icons/feather/minus.png"
+    },
+    {
+      "name": "Maximize_Restore_button",
+      "icon": "Qss/icons/Icons/feather/maximize-2.png"
+    },
+    {
+      "name": "Close_button",
+      "icon": "Qss/icons/Icons/feather/window_close.png"
+    },
+    {
+      "name": "Sign_up_btn",
+      "icon": "Qss/icons/Icons/feather/user-plus.png"
+    },
+    {
+      "name": "Login_Check_btn",
+      "icon": "Qss/icons/fd5028/feather/user.png"
+    },
+    {
+      "name": "Generate_btn_main",
+      "icon": "Qss/icons/Icons/feather/key.png"
+    },
+    {
+      "name": "Copy_pass_main",
+      "icon": "Qss/icons/fd5028/feather/clipboard.png"
+    },
+    {
+      "name": "Copy_all_pass_db",
+      "icon": "Qss/icons/Icons/feather/clipboard.png"
+    }
+  ]
+}

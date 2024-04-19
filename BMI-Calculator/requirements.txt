@@ -1,0 +1,5 @@
+PyQt5
+QT-PyQt-PySide-Custom-Widgets
+numpy
+matplotlib
+mysql-connector-python

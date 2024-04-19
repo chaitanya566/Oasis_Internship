@@ -1,0 +1,132 @@
+{
+  "ShowLogs": true,
+  "QMainWindow": [
+    {
+      "tittle": "BMI-Calculator",
+      "frameless": true,
+      "transluscentBg": true,
+      "sizeGrip": "Size_Grip_Frame",
+      "navigation": [
+        {
+          "minimize": "Minimize_button",
+          "close": "Close_button",
+          "restore": [
+            {
+              "buttonName": "Maximize_Restore_button",
+              "normalIcon": ":/icons/Icons/feather/maximize-2.png",
+              "maximizedIcon": ":/icons/Icons/feather/minimize-2.png"
+            }
+          ],
+          "moveWindow": "Title_bar",
+          "tittleBar": "Title_bar"
+        }
+      ]
+    }
+  ],
+  "QCustomQStackedWidget": [
+    {
+      "name": "stackedWidget",
+      "transitionAnimation": [
+        {
+          "fade": [
+            {
+              "active": true,
+              "duration": 1000,
+              "easingCurve": "OutBack"
+            }
+          ]
+        }
+      ],
+      "navigation": [
+        {
+          "navigationButtons": [
+            {
+              "Sign_Up_btn": "Sign_Up_Page",
+              "Login_In_btn": "Login_In_Page",
+              "Create_pass_btn": "Create_pass",
+              "History_btn": "History_Page",
+              "About_btn": "About_Page",
+              "Check_pass_btn": "Check_pass"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "QCustomSlideMenu": [
+    {
+      "name": "Menu_Panel",
+      "defaultSize": [
+        {
+          "width": 329,
+          "height": "auto"
+        }
+      ],
+      "collapsedSize": [
+        {
+          "width": 0,
+          "height": 0
+        }
+      ],
+      "expandedSize": [
+        {
+          "width": 329,
+          "height": "auto"
+        }
+      ],
+      "toggleButton": [
+        {
+          "buttonName": "Menu_Close_btn",
+          "icons": [
+            {
+              "whenMenuIsCollapsed": ":/icons/Icons/feather/list.png",
+              "whenMenuIsExpanded": ":/icons/Icons/feather/chevrons-left.png"
+            }
+          ]
+        }
+      ],
+      "menuTransitionAnimation": [
+        {
+          "animationDuration": 500,
+          "animationEasingCurve": "Linear",
+          "whenCollapsing": [
+            {
+              "animationDuration": 500,
+              "animationEasingCurve": "Linear"
+            }
+          ],
+          "whenExpanding": [
+            {
+              "animationDuration": 200,
+              "animationEasingCurve": "Linear"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "QSettings": [
+    {
+      "ThemeSettings": [
+        {
+          "CustomTheme": [
+            {
+              "Background-color": "#19222c",
+              "Text-color": "#FFFFFF",
+              "Accent-color": "#10161e",
+              "Icons-color": "#fd5028",
+              "Theme-name": "Default-theme",
+              "Default-Theme": true
+            }
+          ]
+        }
+      ],
+      "AppSettings": {
+        "OrginizationName": "Random Password Generator",
+        "ApplicationName": "Random Password Generator Company",
+        "OrginizationDormain": "Random Password Generator.org"
+      }
+    }
+  ],
+  "QtBinding": "PyQt5"
+}

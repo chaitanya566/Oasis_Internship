@@ -1,0 +1,131 @@
+{
+  "ShowLogs": true,
+  "QMainWindow": [
+    {
+      "tittle": "BMI-Calculator",
+      "frameless": true,
+      "transluscentBg": true,
+      "sizeGrip": "Size_Grip_Frame",
+      "navigation": [
+        {
+          "minimize": "Minimize_button",
+          "close": "Close_button",
+          "restore": [
+            {
+              "buttonName": "Maximize_Restore_button",
+              "normalIcon": ":/icons/000000/feather/maximize-2.png",
+              "maximizedIcon": ":/icons/000000/feather/minimize-2.png"
+            }
+          ],
+          "moveWindow": "Title_bar",
+          "tittleBar": "Title_bar"
+        }
+      ]
+    }
+  ],
+  "QCustomQStackedWidget": [
+    {
+      "name": "stackedWidget",
+      "transitionAnimation": [
+        {
+          "fade": [
+            {
+              "active": true,
+              "duration": 1000,
+              "easingCurve": "OutBack"
+            }
+          ]
+        }
+      ],
+      "navigation": [
+        {
+          "navigationButtons": [
+            {
+              "Sign_Up_btn": "Sign_Up_Page",
+              "Login_In_btn": "Login_In_Page",
+              "Main_Page_btn": "Main_Page",
+              "Analysis_btn": "Analysis_Page",
+              "About_btn": "About_Page"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "QCustomSlideMenu": [
+    {
+      "name": "Menu_Panel",
+      "defaultSize": [
+        {
+          "width": 250,
+          "height": "auto"
+        }
+      ],
+      "collapsedSize": [
+        {
+          "width": 0,
+          "height": 0
+        }
+      ],
+      "expandedSize": [
+        {
+          "width": 250,
+          "height": "auto"
+        }
+      ],
+      "toggleButton": [
+        {
+          "buttonName": "Menu_Close_btn",
+          "icons": [
+            {
+              "whenMenuIsCollapsed": ":/icons/000000/feather/list.png",
+              "whenMenuIsExpanded": ":/icons/000000/feather/chevrons-left.png"
+            }
+          ]
+        }
+      ],
+      "menuTransitionAnimation": [
+        {
+          "animationDuration": 500,
+          "animationEasingCurve": "Linear",
+          "whenCollapsing": [
+            {
+              "animationDuration": 500,
+              "animationEasingCurve": "Linear"
+            }
+          ],
+          "whenExpanding": [
+            {
+              "animationDuration": 200,
+              "animationEasingCurve": "Linear"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "QSettings": [
+    {
+      "ThemeSettings": [
+        {
+          "CustomTheme": [
+            {
+              "Background-color": "#ececec",
+              "Text-color": "#000000",
+              "Accent-color": "#8f8f8f",
+              "Icons-color": "#000000",
+              "Theme-name": "Default-theme",
+              "Default-Theme": true
+            }
+          ]
+        }
+      ],
+      "AppSettings": {
+        "OrginizationName": "BMI-Calculator",
+        "ApplicationName": "BMI-Calculator Company",
+        "OrginizationDormain": "BMI-Calculator.org"
+      }
+    }
+  ],
+  "QtBinding": "PyQt5"
+}

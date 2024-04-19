@@ -1,0 +1,8 @@
+Python 3.10
+PyQt5 
+random
+string
+re
+requests
+mysql.connector
+Custom_Widgets (for PyQt5)

@@ -1,0 +1,4 @@
+PyQt5
+QT-PyQt-PySide-Custom-Widgets
+requests
+mysql.connector

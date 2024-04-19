@@ -1,0 +1,94 @@
+{
+  "QLabel": [
+    {
+      "name": "App_icon",
+      "pixmap": "Qss/icons/Images/BMI.png"
+    },
+    {
+      "name": "icon_Github",
+      "pixmap": "Qss/icons/000000/feather/github.png"
+    },
+    {
+      "name": "Name_Github",
+      "pixmap": "Qss/icons/Images/GitHub_Logo.png"
+    },
+    {
+      "name": "icon_Linkedin",
+      "pixmap": "Qss/icons/Images/LinkedIn_2021.svg"
+    },
+    {
+      "name": "label_5",
+      "pixmap": "Qss/icons/000000/feather/user-plus.png"
+    },
+    {
+      "name": "label_8",
+      "pixmap": "Qss/icons/000000/feather/user.png"
+    },
+    {
+      "name": "label_7",
+      "pixmap": "Qss/icons/Images/BMI.png"
+    },
+    {
+      "name": "label_17",
+      "pixmap": "Qss/icons/000000/feather/info.png"
+    },
+    {
+      "name": "label_16",
+      "pixmap": "Qss/icons/000000/feather/book.png"
+    }
+  ],
+  "QPushButton": [
+    {
+      "name": "Sign_Up_btn",
+      "icon": "Qss/icons/000000/feather/user.png"
+    },
+    {
+      "name": "Login_In_btn",
+      "icon": "Qss/icons/000000/feather/log-in.png"
+    },
+    {
+      "name": "Main_Page_btn",
+      "icon": "Qss/icons/000000/feather/home.png"
+    },
+    {
+      "name": "Analysis_btn",
+      "icon": "Qss/icons/000000/feather/rotate-ccw.png"
+    },
+    {
+      "name": "About_btn",
+      "icon": "Qss/icons/000000/feather/info.png"
+    },
+    {
+      "name": "GitHub_link",
+      "icon": "Qss/icons/000000/feather/clipboard.png"
+    },
+    {
+      "name": "LinkedIn_Link",
+      "icon": "Qss/icons/000000/feather/clipboard.png"
+    },
+    {
+      "name": "Menu_Close_btn",
+      "icon": "Qss/icons/000000/feather/chevrons-left.png"
+    },
+    {
+      "name": "Minimize_button",
+      "icon": "Qss/icons/000000/feather/minus.png"
+    },
+    {
+      "name": "Maximize_Restore_button",
+      "icon": "Qss/icons/000000/feather/maximize-2.png"
+    },
+    {
+      "name": "Close_button",
+      "icon": "Qss/icons/000000/feather/window_close.png"
+    },
+    {
+      "name": "Sign_up_btn",
+      "icon": "Qss/icons/000000/feather/user-plus.png"
+    },
+    {
+      "name": "Login_Check_btn",
+      "icon": "Qss/icons/000000/feather/user.png"
+    }
+  ]
+}
