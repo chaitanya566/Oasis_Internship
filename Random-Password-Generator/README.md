@@ -8,7 +8,7 @@ PasswordGenPro is an advanced password generator and manager application built u
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/Mysql.png" alt="Login In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Random-Password-Generator/Qss/icons/Images/About.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
 ## Features
@@ -22,7 +22,7 @@ PasswordGenPro is an advanced password generator and manager application built u
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/Mysql.png" alt="Login In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Random-Password-Generator/Qss/icons/Images/Create_pass.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
 - **Password Strength Check**: Check password strength against various criteria, including length, complexity, common patterns, dictionary words, and sequential characters, using the PwnedPasswords API.
@@ -33,7 +33,7 @@ PasswordGenPro is an advanced password generator and manager application built u
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/Mysql.png" alt="Login In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Random-Password-Generator/Qss/icons/Images/Check_pass.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
 - **Password Management**: Store passwords securely when creating or logging into existing accounts.
@@ -47,20 +47,11 @@ PasswordGenPro is an advanced password generator and manager application built u
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/Mysql.png" alt="Login In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Random-Password-Generator/Qss/icons/Images/signUp.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Random-Password-Generator/Qss/icons/Images/LoginIn.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
-   <table>
-   <tr>
-      <td>
-         Database Storage
-      </td>
-   </tr>
-    <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
-    </tr>
-</table>
+
 
 ## Requirements
 
