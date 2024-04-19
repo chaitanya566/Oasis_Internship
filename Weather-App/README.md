@@ -8,7 +8,7 @@ Welcome to WeatherWise - your ultimate weather companion! WeatherWise is a Pytho
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Weather-App/Qss/icons/Images/About.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
 ## Features
@@ -23,7 +23,7 @@ Welcome to WeatherWise - your ultimate weather companion! WeatherWise is a Pytho
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
+       <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Weather-App/Qss/icons/Images/Weather.png" alt="Sign In" width="500" ></td>
     </tr>
     </table>
 
@@ -36,7 +36,7 @@ Welcome to WeatherWise - your ultimate weather companion! WeatherWise is a Pytho
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Weather-App/Qss/icons/Images/Settings.png" alt="Sign In" width="500" ></td>
     </tr>
     </table>
 - **Secure Account Storage**: Store your account information securely in our database for peace of mind.
@@ -51,8 +51,8 @@ Welcome to WeatherWise - your ultimate weather companion! WeatherWise is a Pytho
       </td>
    </tr>
     <tr>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/main.png" alt="Sign In" width="500" ></td>
-        <td><img src="https://github.com/chaitanya566/Rock-Paper-Scissors/blob/main/images/Mysql.png" alt="Login In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Weather-App/Qss/icons/Images/SignUp.png" alt="Sign In" width="500" ></td>
+        <td><img src="https://github.com/chaitanya566/Oasis_Internship/blob/main/Weather-App/Qss/icons/Images/Login.png" alt="Sign In" width="500" ></td>
     </tr>
 </table>
 
